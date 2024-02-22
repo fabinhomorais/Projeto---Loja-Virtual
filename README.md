@@ -20,7 +20,6 @@ Foi criado:
 - Vestido
 - Conjunto de bermudas
 - Biquini
-- Produtos em Destaque
 - Uma funcionalidade foi codificada em JavaScript que, ao clicar no botão “Adicionar ao Carrinho”, apresenta um alerta indicando que o item desejado não se encontra em estoque.
 ---
 O rodapé passou por alterações, indicando que foi construído com Bootstrap e personalizado por Fábio Morais. Ao selecionar o link “Fábio Morais”, o usuário é encaminhado para o GitHub.
